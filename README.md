@@ -1,5 +1,5 @@
 
-# 🛳 Titanic - Machine Learning from Disaster
+# 🛳 Titanic - Machine Learning from Disaster (0.78947 Score)
 
 This repository contains my complete analysis, feature engineering, and modeling workflow for the classic **Titanic survival prediction** problem on Kaggle.
 
