@@ -6,7 +6,7 @@ This repository contains my complete analysis, feature engineering, and modeling
 ## 📁 Project Structure
 
 - `Titanic.ipynb`: Jupyter notebook with all steps from EDA to model training and prediction
-- `submission.csv`: Example format for Kaggle submission (not included here)
+- `submission_xxx.csv`: Example format for Kaggle submission
 
 ---
 
